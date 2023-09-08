@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express-session": "^1.17.3",
+    "mongodb": "^5.8.1",
+    "passport": "^0.6.0",
+    "passport-facebook": "^3.0.0"
+  }
+}
